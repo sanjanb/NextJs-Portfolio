@@ -8,9 +8,9 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication. ",
-    description:
-      "ensuring that every project aligns with the client's vision. My goal is to transform ideas into impactful digital experiences through seamless teamwork and innovation.",
+    title:
+      "I bring a hybrid skillset for a dynamic world —combining expertise in design, development, and problem-solving to deliver solutions",
+    description: "Simple. Clean. Effective",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -19,8 +19,9 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
-    description: "",
+    title:
+      "I'm very flexible with time zone communications, and collaberation.",
+    description: "I will be available",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
