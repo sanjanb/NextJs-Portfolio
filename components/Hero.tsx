@@ -58,7 +58,7 @@ const Hero = () => {
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m{" "}
-            <span className="underline decoration-blue-500">Sanjan</span>,
+            <span className="underline decoration-green-500">Sanjan</span>,
             Engineered Developer based in India.
           </p>
 
