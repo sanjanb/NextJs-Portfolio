@@ -9,7 +9,8 @@ export const gridItems = [
   {
     id: 1,
     title: "I prioritize client collaboration, fostering open communication. ",
-    description: "",
+    description:
+      "ensuring that every project aligns with the client's vision. My goal is to transform ideas into impactful digital experiences through seamless teamwork and innovation.",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
