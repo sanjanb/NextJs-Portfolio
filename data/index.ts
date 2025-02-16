@@ -84,11 +84,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Real-Time Chat Application",
+    des: "Built a scalable chat application using Node.js and Socket.io, enabling seamless real-time communication between users.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://github.com/sanjanb/my-secret-service",
   },
   {
     id: 3,
