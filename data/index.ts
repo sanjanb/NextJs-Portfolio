@@ -100,8 +100,8 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Aquaries Power Technology",
+    des: "A product showcase website featuring batteries, solar products, cameras, and UPS systems, built with React and a responsive UI.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/sanjanb/APT-Raw",
