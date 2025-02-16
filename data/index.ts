@@ -91,12 +91,12 @@ export const projects = [
     link: "https://github.com/sanjanb/my-secret-service",
   },
   {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    id: 4,
+    title: "Open Source Contribution: GirlScript Winter of Contributing",
+    des: "Contributed to various open-source projects, enhancing features and fixing bugs, as part of the GirlScript Winter of Contributing program.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://github.com/sanjanb/Web3-Wallet",
   },
   {
     id: 4,
