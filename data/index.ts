@@ -52,7 +52,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title:
+      "AI & ML Innovation – Exploring Deep Learning, NLP, and Computer Vision, building real-world AI models, Enhancing MERN & Next.js skills, integrating DevOps for seamless deployment.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -110,33 +111,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Sanjan transformed our vision into a stunning, high-performing web platform. His expertise in React.js and Next.js made a huge impact on our project's success. Highly recommend his work!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Sanjan was a game-changer. His problem-solving skills and attention to detail helped streamline our development process and improve our product's performance.",
+    name: "Sarah Patel",
+    title: "Founder & CEO, Nexa Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Sanjan’s AI & ML expertise gave our application the competitive edge we needed. His deep understanding of NLP and automation saved us countless hours. A truly valuable asset!",
+    name: "Arjun Mehta",
+    title: "CTO, VisionAI Labs",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Sanjan’s leadership in frontend development and DevOps automation helped us scale our SaaS platform efficiently. His knowledge of CI/CD pipelines is top-notch!",
+    name: "Emily Carter",
+    title: "Lead Engineer, CloudSync Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Sanjan delivers excellence with speed. His ability to optimize web applications for performance and responsiveness exceeded our expectations. We look forward to working with him again!",
+    name: "Daniel Lee",
+    title: "Product Manager, ByteCore Systems",
   },
 ];
 
@@ -176,29 +177,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full-Stack Developer | MERN & Next.js",
+    desc: "Engineered high-performance web applications using React.js & Next.js, optimizing UI/UX and ensuring scalability.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Open Source Contributor | GirlScript Winter of Contributing",
+    desc: "Actively contributed to open-source projects, enhancing mobile apps with React Native and improving accessibility & performance.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "AI & ML Developer | Computer Vision & NLP",
+    desc: "Developed AI-driven solutions leveraging Machine Learning, Computer Vision, and NLP to automate workflows and enhance user engagement.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Tech Lead | Web & DevOps Automation",
+    desc: "Led development teams to build scalable applications, integrating DevOps for CI/CD, cloud deployments, and performance optimization.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
