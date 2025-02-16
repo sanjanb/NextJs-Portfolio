@@ -76,11 +76,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Aspirise - A Complete Wellness Advisor",
+    des: "An AI-powered wellness advisor designed to detect and support mental health needs, providing personalized solutions and crisis intervention.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/sanjanb/Mental-depression-measures",
   },
   {
     id: 2,
@@ -91,7 +91,7 @@ export const projects = [
     link: "https://github.com/sanjanb/my-secret-service",
   },
   {
-    id: 4,
+    id: 3,
     title: "Open Source Contribution: GirlScript Winter of Contributing",
     des: "Contributed to various open-source projects, enhancing features and fixing bugs, as part of the GirlScript Winter of Contributing program.",
     img: "/p3.svg",
@@ -104,7 +104,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/sanjanb/APT-Raw",
   },
 ];
 
